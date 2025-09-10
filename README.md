@@ -2,11 +2,11 @@
 
 关键技术：Autoscale-SIFT, Incremental SfM, SGBM, PatchMatch, Ortho Rectification, Occulusion Detection
 
-youtube：https://youtube.com/watch?v=xxx
+youtube：https://youtube.com/watch?v=l6hNYM4mKi8
 
 ![实时三维-算法框架](./fig/framework.jpg)
 
-[![视频预览](./fig/result.jpg)](https://youtube.com/watch?v=xxx)
+[![视频预览](./fig/result.jpg)](https://youtube.com/watch?v=l6hNYM4mKi8)
 
 
 Credits:
